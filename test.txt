@@ -1,3 +1,7 @@
 test file
 add one line
+<<<<<<< HEAD
 add another line on master branch.
+=======
+add another line on dev branch new.
+>>>>>>> dev
