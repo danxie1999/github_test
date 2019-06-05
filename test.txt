@@ -1,5 +1,6 @@
 test file
 add one line
+fix a bug
 <<<<<<< HEAD
 add another line on master branch.
 =======
