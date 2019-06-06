@@ -24,3 +24,4 @@ workerA fixed another bug
 =======
 workerB fixed another bug
 >>>>>>> 25aeb6415a0f30599091f1f78ff3fe20980b7af4
+workerC fixed a bug bug
