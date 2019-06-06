@@ -13,3 +13,8 @@ add plt on master branch
 add flask on dev branch
 >>>>>>> dev
 I am working on a project on dev branch
+added sql update on the dev
+add something on dev branch
+add functools on dev branch
+worker A, add something on dev 20190606
+worker B, add a sql insert on dev 20190606
