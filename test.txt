@@ -14,3 +14,6 @@ add flask on dev branch
 >>>>>>> dev
 I am working on a project on dev branch
 added sql update on the dev
+add something on dev branch
+add functools on dev branch
+
