@@ -19,4 +19,8 @@ add functools on dev branch
 worker A, add something on dev 20190606
 worker B, add a sql insert on dev 20190606
 workerB fix a bug
+<<<<<<< HEAD
 workerA fixed another bug
+=======
+workerB fixed another bug
+>>>>>>> 25aeb6415a0f30599091f1f78ff3fe20980b7af4
